@@ -6,3 +6,8 @@
 ``` C++
 int main(void) {return 0;}
 ```
+
+- [ ] Graduate
+- [ ] Get money
+- [x] Get bored
+- [ ] Get poor
